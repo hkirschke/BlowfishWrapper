@@ -1,0 +1,7 @@
+C:\Temp\BlowfishCSharp\BlowfishCSharp\bin\Debug\BlowfishCSharp.exe.config
+C:\Temp\BlowfishCSharp\BlowfishCSharp\obj\Debug\BlowfishCSharp.csprojResolveAssemblyReference.cache
+C:\Temp\BlowfishCSharp\BlowfishCSharp\bin\Debug\BlowfishCSharp.exe
+C:\Temp\BlowfishCSharp\BlowfishCSharp\bin\Debug\BlowfishCSharp.pdb
+C:\Temp\BlowfishCSharp\BlowfishCSharp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Temp\BlowfishCSharp\BlowfishCSharp\obj\Debug\BlowfishCSharp.exe
+C:\Temp\BlowfishCSharp\BlowfishCSharp\obj\Debug\BlowfishCSharp.pdb
