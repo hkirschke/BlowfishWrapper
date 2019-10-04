@@ -7,11 +7,11 @@ using BlowfishCSharp.Wrapper;
 
 namespace BlowfishCSharp
 {
-    class Program
+  class Program
+  {
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-
-        }
+     
     }
+  }
 }
