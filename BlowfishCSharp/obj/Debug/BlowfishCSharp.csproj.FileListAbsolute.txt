@@ -5,3 +5,12 @@ C:\Temp\BlowfishCSharp\BlowfishCSharp\bin\Debug\BlowfishCSharp.pdb
 C:\Temp\BlowfishCSharp\BlowfishCSharp\bin\Debug\BouncyCastle.Crypto.dll
 C:\Temp\BlowfishCSharp\BlowfishCSharp\obj\Debug\BlowfishCSharp.exe
 C:\Temp\BlowfishCSharp\BlowfishCSharp\obj\Debug\BlowfishCSharp.pdb
+C:\Users\julio\Source\Repos\BlowfishWrapper\BlowfishCSharp\bin\Debug\BlowfishCSharp.dll.config
+C:\Users\julio\Source\Repos\BlowfishWrapper\BlowfishCSharp\bin\Debug\BlowfishCSharp.dll
+C:\Users\julio\Source\Repos\BlowfishWrapper\BlowfishCSharp\bin\Debug\BlowfishCSharp.pdb
+C:\Users\julio\Source\Repos\BlowfishWrapper\BlowfishCSharp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\julio\Source\Repos\BlowfishWrapper\BlowfishCSharp\obj\Debug\BlowfishCSharp.csprojAssemblyReference.cache
+C:\Users\julio\Source\Repos\BlowfishWrapper\BlowfishCSharp\obj\Debug\BlowfishCSharp.csproj.CoreCompileInputs.cache
+C:\Users\julio\Source\Repos\BlowfishWrapper\BlowfishCSharp\obj\Debug\BlowfishCSharp.csproj.CopyComplete
+C:\Users\julio\Source\Repos\BlowfishWrapper\BlowfishCSharp\obj\Debug\BlowfishCSharp.dll
+C:\Users\julio\Source\Repos\BlowfishWrapper\BlowfishCSharp\obj\Debug\BlowfishCSharp.pdb

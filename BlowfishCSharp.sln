@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlowfishCSharp", "BlowfishCSharp\BlowfishCSharp.csproj", "{A5C6023F-806A-4BCF-9071-A5674E2F29BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{7FD3E7B6-000B-4D5C-8FAA-C13D209B3CC2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,8 +17,15 @@ Global
 		{A5C6023F-806A-4BCF-9071-A5674E2F29BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A5C6023F-806A-4BCF-9071-A5674E2F29BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A5C6023F-806A-4BCF-9071-A5674E2F29BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FD3E7B6-000B-4D5C-8FAA-C13D209B3CC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FD3E7B6-000B-4D5C-8FAA-C13D209B3CC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FD3E7B6-000B-4D5C-8FAA-C13D209B3CC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FD3E7B6-000B-4D5C-8FAA-C13D209B3CC2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4269DFE-977A-4D78-A10F-F17F7F4B2F86}
 	EndGlobalSection
 EndGlobal
