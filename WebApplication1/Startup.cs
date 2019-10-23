@@ -31,7 +31,7 @@ namespace WebApplication1
                 options.AddPolicy(MyAllowSpecificOrigins,
                 builder =>
                 {
-                    builder.WithOrigins("http://localhost:4200", "*");
+                    builder.WithOrigins("http://localhost:4200", "*", "https://criptografia-c2ac6.web.app/");
                     builder.WithHeaders("Content-Type");
                 });
             });
