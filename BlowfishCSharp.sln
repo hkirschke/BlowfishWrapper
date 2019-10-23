@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.136
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlowfishCSharp", "BlowfishCSharp\BlowfishCSharp.csproj", "{A5C6023F-806A-4BCF-9071-A5674E2F29BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{7FD3E7B6-000B-4D5C-8FAA-C13D209B3CC2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cripto", "WebApplication1\Cripto.csproj", "{7FD3E7B6-000B-4D5C-8FAA-C13D209B3CC2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
